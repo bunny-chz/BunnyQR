@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Bunny QR</string>
+    <string name="cameraScanClick">相机扫码</string>
+    <string name="imageScanClick">图片扫码</string>
+    <string name="author">By Bunny</string>
+    <string name="generateCodeClick">生成二维码</string>
+    <string name="generateCode">生成</string>
+    <string name="version">Version 1.5.0</string>
+    <string name="permission_camera">App扫码需要用到拍摄权限</string>
+    <string name="permission_external_storage">App需要用到读写权限</string>
+    <string name="barcodeBtn">生成</string>
+    <string name="barcode">生成条形码</string>
+    <string name="appwidget_text">相机扫码</string>
+    <string name="clear">清除</string>
+    <string name="barcode_about">部分条形码格式参考</string>
+    <string name="QSTile_Label">Bunny扫码</string>
+    <string name="generateBarCodeTextHint">请输入对应条形码格式的字符</string>
+    <string name="generateCodeTextHint">请输入文本</string>
+    <string name="QS_nevigation_title">Bunny 扫码导航页</string>
+    <string name="QS_nevigation_finish">按返回键退出本应用</string>
+    <string name="QS_nevigation_scan_again">再扫一次</string>
+    <string name="QS_nevigation_mainPage">回主界面</string>
+    <string name="about_license">开源许可协议</string>
+    <string name="menu_about">关于</string>
+    <string name="license_name_title">名称</string>
+    <string name="license_title">许可协议</string>
+    <string name="license_modify_title">是否经过修改</string>
+    <string name="code_text">code_text</string>
+    <string name="QrcodeText">QrcodeText</string>
+    <string name="BarcodeText">BarcodeText</string>
+    <string name="APP_description">Bunny QR是一款主要支持二维码扫描和生成的软件，扫描方式有相机扫码和图片扫码。同时可以生成16种格式的条形码，也可以识别部分格式的条形码,还支持下拉通知栏打开相机扫码。</string>
+    <string name="update_log">
+V1.0.0基本功能
+一、二维码解码
+  1.相机扫码
+  2.本地图片扫码
+      以上都支持复制到剪切板
+二、二维码编码
+  1.文本编码成二维码
+    (1)带logo(logo为软件图标)
+    (2)不带logo
+
+V1.1.0更新内容
+
+1.优化了图片扫码，可以扫花式二维码
+2.优化了扫码结果提示的逻辑
+         (如提示图片无二维码)
+3.新增功能:扫码结果直接用浏览器访问
+4.优化了软件大小，减小APP体积
+5.改善了界面布局
+
+V1.2.0更新内容
+1.新增条形码识别功能，整合在同一扫码按钮下
+2.新增条形码生成功能
+3.删除带Logo的二维码生成功能
+4.优化了相机扫码
+      (1)增加闪光灯功能
+      (2)可手动聚焦拉近扫码
+      (3)优化了界面的扫码框与扫描视觉效果
+
+V1.3.0更新内容
+1.优化了输入的体验，取消自动清除，增加清除按钮
+2.改进之前的只能生成一种类型的条形码，增加了16种新的条形码类型
+3.另附有部分条形码的使用格式
+4.增加再按一次退出操作
+5.修复对话弹窗确定按钮的错误
+
+V1.4.0更新内容
+1.优化界面布局，改进屏幕适配度
+2.新增下拉通知栏快捷扫码功能
+
+V1.5.0更新内容
+1.优化授予权限的操作，要授予的权限一览全知道
+2.优化界面UI，增强屏幕适配度，同时适配夜间模式
+3.增加返回按键，美化输入框风格，标题栏显示各个页面的主要功能
+4.新增关于页面，声明软件开发相关信息；新增版权信息页面，声明开源代码的版权
+5.生成二维码（条形码）功能中，对输入的文字进行存储记忆</string>
+</resources>

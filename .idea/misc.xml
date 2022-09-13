@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidDEV/APP_Beta/Beta/BunnyQR/app/src/main/res/layout/activity_main.xml" value="0.134375" />
+        <entry key="..\:/AndroidDEV/APP_Beta/Beta/BunnyQR/app/src/main/res/layout/generate_barcode.xml" value="0.134375" />
+        <entry key="..\:/AndroidDEV/APP_Beta/Beta/BunnyQR/app/src/main/res/layout/qs_tile_title.xml" value="0.16" />
+        <entry key="..\:/AndroidDEV/BunnyQR/app/src/main/res/drawable-v24/shape.xml" value="0.1635" />
+        <entry key="..\:/AndroidDEV/BunnyQR/app/src/main/res/layout/activity_main.xml" value="0.134375" />
+        <entry key="..\:/AndroidDEV/BunnyQR/app/src/main/res/layout/generate_barcode.xml" value="0.134375" />
+        <entry key="..\:/AndroidDEV/BunnyQR/app/src/main/res/layout/generate_qrcode.xml" value="0.134375" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/drawable-nodpi/sel_item.xml" value="0.168" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/drawable-nodpi/shape4.xml" value="0.168" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/drawable-nodpi/shape5.xml" value="0.168" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/drawable-v24/shape.xml" value="0.168" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/drawable-v24/shape2.xml" value="0.168" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/drawable-v24/shape3.xml" value="0.168" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/layout/activity_license_page.xml" value="0.15885416666666666" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/layout/activity_main.xml" value="0.33188248095756256" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/layout/edit_text_shape.xml" value="0.14427083333333332" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/layout/generate_barcode.xml" value="0.15885416666666666" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/layout/generate_qrcode.xml" value="0.15885416666666666" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/layout/gridview_item.xml" value="0.6" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/layout/license_listview.xml" value="0.15885416666666666" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/layout/qs_tile_title.xml" value="0.15885416666666666" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/layout/update_log_layout.xml" value="0.264" />
+        <entry key="..\:/AndroidDEV/DEV_Achievement/APP/BunnyQR/app/src/main/res/menu/main_menu.xml" value="0.15885416666666666" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/drawable-nodpi/shape4.xml" value="0.168" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/drawable-nodpi/shape5.xml" value="0.168" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/drawable-v21/app_widget_background.xml" value="0.176" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.10833333333333334" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/drawable-v24/shape.xml" value="0.1" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/drawable-v24/shape2.xml" value="0.1" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/drawable-v24/shape3.xml" value="0.14895833333333333" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/drawable/ic_launcher_background.xml" value="0.10833333333333334" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/layout/activity_license_page.xml" value="0.4" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/layout/camera.xml" value="0.1234375" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/layout/desk_widget.xml" value="0.25" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/layout/generate_barcode.xml" value="0.33" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/layout/generate_barcode_aztec.xml" value="0.11927083333333334" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/layout/generate_barcode_codabar.xml" value="0.11927083333333334" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/layout/generate_code.xml" value="0.25" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/layout/generate_qrcode.xml" value="0.22" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/layout/license_listview.xml" value="0.14427083333333332" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/layout/main_menu.xml" value="0.14427083333333332" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/layout/scan_ui.xml" value="0.25" />
+        <entry key="..\:/AndroidDEV/Daily_Exercise/BunnyQR/app/src/main/res/menu/popmenu.xml" value="0.33" />
+        <entry key="..\:/Users/Bunny/Desktop/AndroidDEV/APP_Beta/BunnyQR/app/src/main/res/layout/qs_tile_title.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Bunny/Desktop/BunnyQR/BunnyQR/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Bunny/Desktop/BunnyQR/BunnyQR/app/src/main/res/layout/generate_barcode.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Bunny/Desktop/BunnyQR/BunnyQR/app/src/main/res/layout/generate_qrcode.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Bunny/Desktop/BunnyQR/BunnyQR/app/src/main/res/layout/qs_tile_title.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
