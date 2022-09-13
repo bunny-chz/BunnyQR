@@ -3,10 +3,10 @@
 解决生活中手机使用的某些痛点
 避免使用主流社交软件的扫码和解码功能
 
-二维码库引用的是 ZXingLite
+二维码库引用的是 ZXingLite:
 https://github.com/jenly1314/ZXingLite
 
-关于界面库引用的是 android-about-page
+关于界面库引用的是 android-about-page:
 https://github.com/medyo/android-about-page
 
 主要功能：
