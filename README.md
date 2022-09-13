@@ -5,6 +5,7 @@
 
 二维码库引用的是 ZXingLite
 https://github.com/jenly1314/ZXingLite
+
 关于界面库引用的是 android-about-page
 https://github.com/medyo/android-about-page
 
