@@ -9,7 +9,17 @@ https://github.com/jenly1314/ZXingLite
 关于界面库引用的是 android-about-page:
 https://github.com/medyo/android-about-page
 
-主要功能：
+
+**界面展示**
+
+![IMG_20220914_130816](https://user-images.githubusercontent.com/57706599/190064648-a36f1bab-339b-4f2e-a7eb-c968b14b8a00.jpg)
+
+---------------------------------------------------------------------------------------------
+
+![IMG_20220914_130823](https://user-images.githubusercontent.com/57706599/190064663-f2e69d27-f423-4a7b-aa47-5a566a32ffad.jpg)
+
+
+**主要功能：**
 Bunny QR是一款主要支持二维码扫描和生成的软件，
 
 扫描方式有相机扫码和图片扫码。
